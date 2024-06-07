@@ -4,6 +4,9 @@
 
 SignSense is a software developed as part of a college curriculum mini project, aimed at assisting deaf and dumb individuals. Leveraging computer vision and machine learning, SignSense provides an intuitive and accessible interface for communication and creativity through two main features: hand sign recognition and virtual drawing.
 
+![SignSense_Main](https://github.com/abey003/SignSense/assets/96768878/09c8089d-1cc1-4291-a5f6-2e0c07bd1c47)
+
+
 ## Main Features
 
 ### Hand Sign Recognition
