@@ -20,8 +20,6 @@ The software detects the pen's direction and creates a virtual drawing along its
 The main file contains the interface with two buttons: "Virtual Drawing" and "Sign Recognition."
 Users can select either feature to start using the software.
 
-### Folders
-
 ### Virtual Drawing
 Includes all necessary files for implementing the virtual drawing feature.
 
