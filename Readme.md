@@ -20,7 +20,7 @@ The software detects the pen's direction and creates a virtual drawing along its
 ## Project Structure
 
 ### Main File
-The main file contains the interface with two buttons: "Virtual Drawing" and "Sign Recognition."
+The main file contains the interface with two buttons: "Launch Drawing" and "Launh Sign Language."
 Users can select either feature to start using the software.
 
 ### Virtual Drawing
