@@ -28,9 +28,13 @@ Includes all necessary files for implementing the virtual drawing feature.
 
 ### Sign Detection
 Contains files for different stages of the hand sign recognition process:
+
 Data Collection: Capture of images for training data.
+
 Data Extraction: Extract the required parts of the images.
+
 Train Data: Train the data for hand sign recognition.
+
 Main Sign Language Detection: File for detecting hand signs using the trained data.
 
 ### Technology
