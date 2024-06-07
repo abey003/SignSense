@@ -1,6 +1,36 @@
 # SignSense
 
-SignSense is a software developed for a mini project aimed at assisting deaf and dumb individuals. It incorporates two main features:
-Hand Sign Recognition: This feature allows the software to recognize hand signs shown by users and compare them with pre-trained data to accurately identify the hand sign detected.
-Virtual Drawing: This feature enables users to draw virtually by moving a pen in the air over a camera. The software detects the direction of the pen and draws along its path, creating a virtual drawing.
-SignSense leverages computer vision and machine learning to provide an intuitive and accessible interface for communication and creativity.
+## Overview
+
+SignSense is a software developed as part of a college curriculum mini project, aimed at assisting deaf and dumb individuals. Leveraging computer vision and machine learning, SignSense provides an intuitive and accessible interface for communication and creativity through two main features: hand sign recognition and virtual drawing.
+
+## Main Features
+
+### Hand Sign Recognition
+Identifies hand signs shown by users.
+Matches the signs with pre-trained data to detect and display the recognized sign.
+
+### Virtual Drawing
+Allows users to draw by moving a pen in the air over a camera.
+The software detects the pen's direction and creates a virtual drawing along its path.
+
+## Project Structure
+
+### Main File
+The main file contains the interface with two buttons: "Virtual Drawing" and "Sign Recognition."
+Users can select either feature to start using the software.
+
+### Folders
+
+### Virtual Drawing
+Includes all necessary files for implementing the virtual drawing feature.
+
+### Sign Detection
+Contains files for different stages of the hand sign recognition process:
+Data Collection: Capture of images for training data.
+Data Extraction: Extract the required parts of the images.
+Train Data: Train the data for hand sign recognition.
+Main Sign Language Detection: File for detecting hand signs using the trained data.
+
+### Technology
+The entire program is written in Python, utilizing various libraries for computer vision and machine learning.
